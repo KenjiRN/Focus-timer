@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62.5%;
+}
+body{
+    background-color: #121214;
+    font-family: 'Roboto', sans-serif;
+}
+main{
+
+}
+
+span{
+
+    font-size: 8.8rem;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    width: 22.7rem;
+    height: 10.3rem;
+}
