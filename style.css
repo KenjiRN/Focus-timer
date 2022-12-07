@@ -6,9 +6,11 @@
 
 :root{
     font-size: 62.5%;
+    --bg-color:#121214;
+    --primary-color:#42D3FF;
 }
 body{
-    background-color: #121214;
+    background-color: var(--bg-color);
     font-family: 'Roboto', sans-serif;
 }
 main{
