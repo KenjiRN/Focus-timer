@@ -8,13 +8,17 @@
     font-size: 62.5%;
     --bg-color:#121214;
     --primary-color:#42D3FF;
+    --text-color:#ffffff;
 }
 body{
     background-color: var(--bg-color);
+    color: var(--text-color);
     font-family: 'Roboto', sans-serif;
+    position: absolute;
 }
 main{
-
+    margin:auto;
+    position: relative;
 }
 
 span{
@@ -24,4 +28,7 @@ span{
     font-family: 'Roboto', sans-serif;
     width: 22.7rem;
     height: 10.3rem;
+}
+#controls{
+
 }
